@@ -1,5 +1,5 @@
 {
-    "name": "queen_amdi-multi_device",
+    "name": "MAYODY-TECH",
     "version": "4.0.7",
     "description": "Queen Amdi [WA Multi-device] - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.",
     "main": "./assets/amdiModule.js",
@@ -20,7 +20,7 @@
         "whatsapp"
     ],
     "author": "Black Amda",
-    "developer": "AN Tech",
+    "developer": "MAYODY Tech",
     "license": "GPL-3.0-or-later",
     "bugs": {
         "url": "https://github.com/BlackAmda/QueenAmdi/issues"
